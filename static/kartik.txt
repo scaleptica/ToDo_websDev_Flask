@@ -1,0 +1,2 @@
+This is a text file that I believe one can download from http://127.0.0.1:8000/static/kartik.text
+And now changes are being made in this inside of the notepad
